@@ -26,7 +26,7 @@ This repository contains a structured collection of lab assignments, questions, 
     │   ├── Assignment - 3.docx
     │   ├── Assignment - 3.pages
     │   ├── Assignment - 4.1.docx
-    │  ├── Assignment - 5.1.docx
+    │   ├── Assignment - 5.1.docx
     │   └── Assignment - 6.5.docx
     │
     ├── PDF/
