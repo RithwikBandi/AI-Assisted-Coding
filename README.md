@@ -1,3 +1,5 @@
+# 2303A52330
+
 # AI-Assisted-Coding
 
 This repository contains a structured collection of lab assignments, questions, and submissions prepared with the support of AI-assisted coding tools. It is organized to clearly separate editable documents, final PDF submissions, and original lab question files for easy navigation, review, and evaluation.
@@ -6,36 +8,45 @@ This repository contains a structured collection of lab assignments, questions, 
 
 ## Assignments Index
 
-| Week | Assignment | PDF Link |
-|-----:|-----------|----------|
-| 1 | Assignment 1.5 | [View PDF](PDF/Assignment%20-%201.5.pdf) |
-| 2 | Assignment 2.1 | [View PDF](PDF/Assignment%20-%202.1.pdf) |
-| 3 | Assignment 3.1 | [View PDF](PDF/Assignment%20-%203.1.pdf) |
-| 4 | Assignment 4.1 | [View PDF](PDF/Assignment%20-%204.1.pdf) |
-| 5 | Assignment 5.1 | [View PDF](PDF/Assignment%20-%205.1.pdf) |
-| 6 | Assignment 6.5 | [View PDF](/PDF/Assignment%20-%206.5.pdf) |
+| Week | Assignment     | PDF Link                                            |
+| ---: | -------------- | --------------------------------------------------- |
+|    1 | Assignment 1.5 | [View PDF](PDF/2303A52330_Assignment%20-%201.5.pdf) |
+|    2 | Assignment 2.1 | [View PDF](PDF/2303A52330_Assignment%20-%202.1.pdf) |
+|    3 | Assignment 3.1 | [View PDF](PDF/2303A52330_Assignment%20-%203.1.pdf) |
+|    4 | Assignment 4.1 | [View PDF](PDF/2303A52330_Assignment%20-%204.1.pdf) |
+|    5 | Assignment 4.5 | [View PDF](PDF/2303A52330_Assignment%20-%204.5.pdf) |
+|    6 | Assignment 5.1 | [View PDF](PDF/2303A52330_Assignment%20-%205.1.pdf) |
+|    7 | Assignment 6.5 | [View PDF](PDF/2303A52330_Assignment%20-%206.5.pdf) |
+|    8 | Assignment 7.1 | [View PDF](PDF/2303A52330_Assignment%20-%207.1.pdf) |
+|    9 | Assignment 8.5 | [View PDF](PDF/2303A52330_Assignment%20-%208.5.pdf) |
 
 ---
 
 ## Repository Structure
 
-    AI-Assisted-Coding/
+     AI-Assisted-Coding/
     ├── Docx/
     │   ├── Assignment - 1.5.docx
     │   ├── Assignment - 2.docx
     │   ├── Assignment - 3.docx
     │   ├── Assignment - 3.pages
     │   ├── Assignment - 4.1.docx
+    │   ├── Assignment - 4.5.docx
     │   ├── Assignment - 5.1.docx
-    │   └── Assignment - 6.5.docx
+    │   ├── Assignment - 6.5.docx
+    │   ├── Assignment - 7.1.docx
+    │   └── Assignment - 8.5.docx
     │
     ├── PDF/
     │   ├── Assignment - 1.5.pdf
     │   ├── Assignment - 2.1.pdf
     │   ├── Assignment - 3.1.pdf
     │   ├── Assignment - 4.1.pdf
+    │   ├── Assignment - 4.5.pdf
     │   ├── Assignment - 5.1.pdf
-    │   └── Assignment - 6.5.pdf
+    │   ├── Assignment - 6.5.pdf
+    │   ├── Assignment - 7.1.pdf
+    │   └── Assignment - 8.5.pdf
     │
     ├── Question/
     │   ├── Lab_Assignment_1.5.docx
@@ -44,7 +55,9 @@ This repository contains a structured collection of lab assignments, questions, 
     │   ├── Lab_Assignment_4.1.docx
     │   ├── Lab_Assignment_4.5.docx
     │   ├── Lab_Assignment_5.1.docx
-    │   └── Lab_Assignment_6.5.docx
+    │   ├── Lab_Assignment_6.5.docx
+    │   ├── Lab_Assignment_7.1.docx
+    │   └── Lab_Assignment_8.5.docx
     │
     └── README.md
 
