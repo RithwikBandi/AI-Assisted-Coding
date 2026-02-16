@@ -21,6 +21,7 @@ This repository contains a structured collection of lab assignments, questions, 
 |    9 | Assignment 8.5  | [View PDF](PDF/2303A52330_Assignment%20-%208.5.pdf)  |
 |   10 | Assignment 9.1  | [View PDF](PDF/2303A52330_Assignment%20-%209.1.pdf)  |
 |   11 | Assignment 10.5 | [View PDF](PDF/2303A52330_Assignment%20-%2010.5.pdf) |
+|   12 | Assignment 11.1 | [View PDF](PDF/2303A52330_Assignment%20-%2011.1.pdf) |
 
 ---
 
@@ -40,6 +41,7 @@ This repository contains a structured collection of lab assignments, questions, 
     │   ├── Assignment - 8.5.docx
     │   ├── Assignment - 9.1.docx
     │   ├── Assignment - 10.5.docx
+    │   ├── Assignment - 11.1.docx
     │
     ├── PDF/
     │   ├── Assignment - 1.5.pdf
@@ -53,6 +55,7 @@ This repository contains a structured collection of lab assignments, questions, 
     │   ├── Assignment - 8.5.pdf
     │   ├── Assignment - 9.1.pdf
     │   ├── Assignment - 10.5.pdf
+    │   ├── Assignment - 11.1.pdf
     │
     ├── Question/
     │   ├── Lab_Assignment_1.5.docx
@@ -66,6 +69,7 @@ This repository contains a structured collection of lab assignments, questions, 
     │   ├── Lab_Assignment_8.5.docx
     │   ├── Lab_Assignment_9.1.docx
     │   ├── Lab_Assignment_10.5.docx
+    │   ├── Lab_Assignment_11.1.docx
     │
     └── README.md
 
